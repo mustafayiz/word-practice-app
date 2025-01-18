@@ -25,7 +25,7 @@ Lütfen çekme isteğinizin projenin kodlama standartlarına ve uygulamalarına 
 1. Başlamadan önce Node.js'nin kurulu olduğundan emin olun.
 2. Bu deponun kopyasını yerel makinenize kopyalayın:
 ```bash
-    git clone https://github.com/mustafayiz/word-practice-app.git
+git clone https://github.com/mustafayiz/word-practice-app.git
 ```
 3. Proje dizinine gidin:
 ```bash
