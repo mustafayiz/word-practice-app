@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/mustafayiz/word-practice-app/refs/heads/master/screenshots/3.png)
 
 
-Bu, React Native kullanılarak oluşturulmuş kelime ezberleme ve pratik uygulaması'dır ama sadece arayüz tasarımı yapılmıştır. Kullanıcıların kelime ekleme, kelime ezberleme, ve üzerinde çeşitli alıştırmalar yapmalarını sağlar. Uygulama'nın kullanıcı dostu bir arayüzü vardır ve kelime listelerini export etmemizi sağlar.
+Bu, React Native kullanılarak oluşturulmuş kelime ezberleme ve pratik uygulamasıdır ama sadece arayüz tasarımı yapılmıştır. Kullanıcıların kelime ekleme, kelime ezberleme, ve üzerinde çeşitli alıştırmalar yapmalarını sağlar. Uygulama'nın kullanıcı dostu bir arayüzü vardır ve kelime listelerini export etmemizi sağlar.
 
 ## Özellikler
 - Kelime listeleri oluşturma ve kelime ekleme
